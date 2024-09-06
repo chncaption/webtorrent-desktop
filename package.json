@@ -23,7 +23,7 @@
   "dependencies": {
     "@electron/remote": "2.0.9",
     "airplayer": "github:webtorrent/airplayer#fix-security",
-    "application-config": "2.0.0",
+    "application-config": "3.0.0",
     "arch": "2.2.0",
     "auto-launch": "5.0.5",
     "bitfield": "4.1.0",
@@ -54,7 +54,7 @@
     "simple-get": "4.0.1",
     "srt-to-vtt": "1.1.3",
     "vlc-command": "1.2.0",
-    "webtorrent": "1.9.6",
+    "webtorrent": "2.2.2",
     "winreg": "1.2.4"
   },
   "devDependencies": {
